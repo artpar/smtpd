@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gleez/smtpd/config"
-	"github.com/gleez/smtpd/data"
-	"github.com/gleez/smtpd/log"
+	"github.com/artpar/smtpd/config"
+	"github.com/artpar/smtpd/data"
+	"github.com/artpar/smtpd/log"
 )
 
 type State int

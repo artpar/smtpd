@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gleez/smtpd/config"
-	"github.com/gleez/smtpd/data"
-	"github.com/gleez/smtpd/log"
+	"github.com/artpar/smtpd/config"
+	"github.com/artpar/smtpd/data"
+	"github.com/artpar/smtpd/log"
 
 	"gopkg.in/mgo.v2/bson"
 )

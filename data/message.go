@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/alexcesaro/mail/quotedprintable"
-	"github.com/gleez/smtpd/config"
-	"github.com/gleez/smtpd/log"
+	"github.com/artpar/smtpd/config"
+	"github.com/artpar/smtpd/log"
 	"github.com/sloonz/go-iconv"
 	"gopkg.in/mgo.v2/bson"
 )
